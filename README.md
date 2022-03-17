@@ -87,6 +87,8 @@ No more sharing domains with other customers
  
  Lifetime = 1000 €
  
+ You can get our software cheaper in a package with our private Mass DM tool!
+ 
  ## Contact:
  https://t.me/N1ROB1
  
