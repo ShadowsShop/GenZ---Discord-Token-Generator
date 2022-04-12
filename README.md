@@ -4,7 +4,7 @@
 
   **The skiddiest discord token generator  with the best "your token will be logged" system code ever created.**
   
- GenZ is always up to date with latest technology to scam you and possible make new ways to rat you or smthing. Last 2022 discord updates is a total shit we dont give a fuck about updates, if its about loggig you, our skid work supports those shit already.
+ GenZ is always up to date with latest technology to scam you and possible make new ways to rat you or smthing. Last 2022 discord updates is a total shit we dont give a fuck about updates, if its about logging you, our skid work supports those shit already.
     </div >
     
 
