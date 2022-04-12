@@ -1,4 +1,4 @@
-# **GenZ** - Discord Token generator
+# **GenZ** - Skidded Token Generator(which really doesn't generate tokens, it will make up random shit and its most prolly there to fuck your pc and your discord accounts)
 
 <div align="center">
 
