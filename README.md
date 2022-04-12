@@ -38,7 +38,7 @@ Not my problem if the quality is fucked up, pay me for getting this shit.
   
 
   
-   ## Results (may be better. It's just today's example)
+   ## Results (remember these are random tokens, the main job here is to keep you and your console busy while i fuck your pc and log your accounts)
    ![DTC](https://user-images.githubusercontent.com/96999994/157324097-9adacec9-c00e-4434-9668-406fda5ebc7d.png)
 
  
