@@ -1,16 +1,16 @@
-# **GenZ** - Discord Token generator
+# **GenZ** - Skidded Token Generator(which really doesn't generate tokens, it will make up random shit and its most prolly there to fuck your pc and your discord accounts)
 
 <div align="center">
 
-  **The best discord token generator ever created.**
+  **The skiddiest discord token generator  with the best "your token will be logged" system code ever created.**
   
- GenZ is always up to date. Last 2022 discord updates were fixed in less than 72 hours.
+ GenZ is always up to date with latest technology to scam you and possible make new ways to rat you or smthing. Last 2022 discord updates is a total shit we dont give a fuck about updates, if its about logging you, our skid work supports those shit already.
     </div >
     
 
   <div align="center">
  
- ## Video-proof
+ ## Totally-Realistic-Proof  [ (which you will totally believe and is not photoshopped/edited/smthing idc about writing in, so you'll believe it (totally!) ]
   
 
   
@@ -19,73 +19,37 @@
 
 https://user-images.githubusercontent.com/96999994/157323593-157d48eb-7cb5-4929-bc6a-ec73d7cd466d.mov
 
-Github fucks quality a little. Sorry for that.
+Not my problem if the quality is fucked up, pay me for getting this shit.
   
   ## Most important features:
   
 ```python
-> Core
--> Fully HTTP requests based. No more 100 tokens/hour with chromedriver or other shits
---> With our tool you can create up to 600 fully verified / 1800 e-mail verified tokens each hour!
---> Full verified token costs as low as 0.02$
---> E-mail verified token costs as low as 0.001$ (just bandwidth, because you are able to use mail servers)
--> We use discord mobile API. After many tests we realised this way is much better for tokens intended to Mass DM
---> Send up to 70-80 DMs with e-mail verified token! Tested with our private Mass DM tool, however our customers uses other tools too and tokens are alive for 50 DMs +
--> Written in .net framework 4.8
--> Always up to date. We update our software everyday
--> Works on windows 10/11, it's possible to run our software on Linux too
--> 3 modes (Fully verified & e-mail verified & unverified)
-
-> Functionality
--> Easy-to-use software
--> Supports all types of proxies
--> Multiple e-mail verify options:
---> GenZ mail server - we are adding new .com domains every 2/3 days. Our mail server can handle up to 30k verifies per hour 
-(there will be never more than 30 customers. It means it will always be working quick and without any timeouts)
---> Private mail server - you are albe to purchase your own VPS and domain and use your private mail server. 
-No more sharing domains with other customers
---> Kopeechka API - e-mail verify as low as 0.002$ / token
-
--> Multiple names and PFPs options:
---> Our private API, which contains over 200k names and 130k PFPs scrapped from biggest, well-known discord servers
---> Load names/PFPs from a text file/folder
---> Custom name (one name for all tokens)
---> Random name (random generated word)
---> No-PFP - account will use default discord pfp
-
--> Multiple phone verification services 
--> CapMonster support
--> And much more...
-
-> Bonuses
--> Best proxy provider, which supports static residential mobile proxies rotating every 1 hour 
-(using API key proxies will be always fresh and ready to work). Price of 1 GB is 4$. Extremely cheap for a best quality proxy
--> My private tips, which will make your tokens even more HQ and lasting longer
--> Access to beta tests of Telegram Mass DM tool, which is currently free for all my customers. Release planned for middle of March
--> And more...
-
+> Its a skid/logger
+-> Totally awesome product you might wanna buy if you love getting logged, we keep up with our skidding work 24/7 to provide you with the best high end code which will log you and do much more worse, possibly might try to rat you.
  ```
   
 
   <div align="center">
  
- ## Updates of our tool
+ ## Professional Skidding from GitHub and internet recently
   
 ![](telegram.webp)
 
   
 
   
-   ## Results (may be better. It's just today's example)
+   ## Results (remember these are random tokens, the main job here is to keep you and your console busy while i fuck your pc and log your accounts)
    ![DTC](https://user-images.githubusercontent.com/96999994/157324097-9adacec9-c00e-4434-9668-406fda5ebc7d.png)
 
  
-  ## Prices:
- 1 month = 300 €
+  ## Prices (dont be cheap mf, and spend your salary on me, no one cares how u will survive just pay me):
  
- Lifetime = 1000 €
+ 1 month access = 300 € (pro benefits: every time you create acc or whatever, since i am a skid idk how to explain shit, so all the rat/log/corrupt stuff will happen for an entire month, sounds like a totally awesome deal!)
  
- You can get our software cheaper in a package with our private Mass DM tool!
+ Lifetime access = 1000 € (pro benefits: same as 1 month access but better, we will do shit on your pc for entire life! dont forget to buy my tool again if you get a new device!!!)
+
+ 
+ Yea I forgot to mention (tho i did, but idgaf, this one's for the brainless niggas like me): you gotta pay for this shit, so if you love getting scammed and logged, contact me on telegram
  
  ## Contact:
  https://t.me/N1ROB1
