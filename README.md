@@ -19,7 +19,7 @@
 
 https://user-images.githubusercontent.com/96999994/157323593-157d48eb-7cb5-4929-bc6a-ec73d7cd466d.mov
 
-Github fucks quality a little. Sorry for that.
+Github fucks quality a little. Sorry for that
   
   ## Most important features:
   
