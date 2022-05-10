@@ -82,7 +82,7 @@ No more sharing domains with other customers
  
   ## Prices:
  1 month = 300 €
- 
+ 3 months = 600 €
  Lifetime = 1000 €
  
  You can get our software cheaper in a package with our private Mass DM tool!
